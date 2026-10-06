@@ -75,14 +75,14 @@ Conducted business research and performance benchmarking as part of a case study
 ### Florida Polytechnic University
 
 **B.S. in Business Analytics** — May 2025  
-  **3.90 GPA • Summa Cum Laude**
+**3.90 GPA • Summa Cum Laude**
 
 Completed a rigorous undergraduate program focused on business analytics, statistics, data analysis, economics, and quantitative problem-solving.
 
 ### Florida Southern College
 
 **M.B.A. in Supply Chain Management** — May 2026  
-  **3.97 GPA • Summa Cum Laude**
+**3.97 GPA • Summa Cum Laude**
 
 Completed graduate-level coursework involving quantitative analysis, finance, economics, operations, supply chain management, and business decision-making.
 
