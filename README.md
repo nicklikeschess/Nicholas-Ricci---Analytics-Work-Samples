@@ -4,7 +4,7 @@ Welcome! This repository contains selected academic, professional, and analytica
 
 ## Recommended Projects
 
-The following projects are recommended as the strongest examples of my work for analytics, reporting, quantitative analysis, and business decision-making:
+The following projects are recommended as the strongest starting points for reviewing my work in analytics, reporting, quantitative analysis, and business decision-making:
 
 1. **01. SQL Database Analysis Project** — SQL, database querying, and data analysis
 2. **04. Soccer Data Analytics Project** — Excel, regression analysis, statistics, and data visualization
@@ -72,17 +72,19 @@ Conducted business research and performance benchmarking as part of a case study
 
 ## Education
 
-**Florida Polytechnic University**
+### Florida Polytechnic University
+
 **B.S. in Business Analytics** — May 2025
 **3.90 GPA • Summa Cum Laude**
 
-Earned a 3.90 GPA while completing a rigorous undergraduate program focused on business analytics, statistics, data analysis, economics, and quantitative problem-solving.
+Completed a rigorous undergraduate program focused on business analytics, statistics, data analysis, economics, and quantitative problem-solving.
 
-**Florida Southern College**
+### Florida Southern College
+
 **M.B.A. in Supply Chain Management** — May 2026
 **3.97 GPA • Summa Cum Laude**
 
-Earned a 3.97 GPA while completing graduate-level coursework involving quantitative analysis, finance, economics, operations, supply chain management, and business decision-making.
+Completed graduate-level coursework involving quantitative analysis, finance, economics, operations, supply chain management, and business decision-making.
 
 ## Analytical Skills
 
