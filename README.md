@@ -74,14 +74,14 @@ Conducted business research and performance benchmarking as part of a case study
 
 ### Florida Polytechnic University
 
-**B.S. in Business Analytics** — May 2025  
+**B.S. in Business Analytics** — May 2025<br>
 **3.90 GPA • Summa Cum Laude**
 
 Completed a rigorous undergraduate program focused on business analytics, statistics, data analysis, economics, and quantitative problem-solving.
 
 ### Florida Southern College
 
-**M.B.A. in Supply Chain Management** — May 2026  
+**M.B.A. in Supply Chain Management** — May 2026<br>
 **3.97 GPA • Summa Cum Laude**
 
 Completed graduate-level coursework involving quantitative analysis, finance, economics, operations, supply chain management, and business decision-making.
@@ -105,3 +105,4 @@ Completed graduate-level coursework involving quantitative analysis, finance, ec
 I enjoy using data to understand problems, identify meaningful patterns, and develop insights that can support better business decisions.
 
 > **The goal isn't just to create reports or graphs. The goal is to turn data into actionable insights that can help people and the business make better decisions.**
+
